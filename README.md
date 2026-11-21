@@ -240,4 +240,5 @@ INFO:     127.0.0.1:55643 - "POST /posting HTTP/1.1" 200 OK
 - [x] `README.md` with setup, execution, sample request/response and logs
 - [x] Automated tests
 - [ ] Add a screenshot of the Swagger docs (`/docs`) before submission
-- [ ] Push to a **public** GitHub repository and email the link as instructed
+- [x] Push to a **public** GitHub repository: https://github.com/Mankalvishwas/automated-multi-platform-posting
+- [ ] Email the repository link to hr@chivoxai.com
